@@ -1,4 +1,4 @@
-# Obsidian Mindbuilding Vault
+# Obsidian Mindbuilding Studies Vault
 
 Mindbuilding, or mental exercise, is the practice of exercising your mind to build mental fitness. It refers to several scientifically backed mind workouts that make you smarter, less distracted, and less impulsive.
 
