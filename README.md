@@ -13,3 +13,7 @@ Mental exercise makes you better at thinking and learning. You learn to focus an
 ---
 
 You can suggest studies, changes or report problems in issues
+
+---
+
+https://discord.gg/brain
