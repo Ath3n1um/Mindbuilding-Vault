@@ -1,0 +1,10 @@
+
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/appearance.json.tmp
+.DS_Store
+Thumbs.db
+**/workspace.json
+**/workspace-mobile.json
+**/*.tmp

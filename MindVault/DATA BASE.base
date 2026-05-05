@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("NOTES STUDIES")
+    order:
+      - file.embeds
+      - TEMAS
+    sort:
+      - property: file.embeds
+        direction: DESC
+    columnSize:
+      file.embeds: 907
+      note.TEMAS: 464
