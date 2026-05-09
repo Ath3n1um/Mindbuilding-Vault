@@ -1,3 +1,6 @@
+properties:
+  note.TEMAS:
+    displayName: THEMES
 views:
   - type: table
     name: Table
@@ -9,7 +12,7 @@ views:
       - TEMAS
     sort:
       - property: file.embeds
-        direction: DESC
+        direction: ASC
     columnSize:
       file.embeds: 907
       note.TEMAS: 464

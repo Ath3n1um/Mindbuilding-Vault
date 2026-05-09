@@ -59,3 +59,10 @@ Relational Training Intervention as add-on therapy to current specific treatment
 
 Comparing the effects of derived relational training and computer coding on intellectual potential in school-age children
 
+Association of napping and all-cause mortality and incident cardiovascular diseases: a dose–response meta analysis of cohort studies
+
+Decoding the Impact of Low-Saturation Color Background on Working Memory: Insights From fNIRS, Eye Tracking, and Subjective Assessments
+
+Does working memory training improve emotion regulation and reduce internalizing symptoms? A pair of three-level meta-analyses.
+
+Neurosteroid coadministration prevents development of tolerance and augments recovery from benzodiazepine withdrawal anxiety and hyperactivity in mice
